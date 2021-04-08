@@ -1,0 +1,2 @@
+# ComponentPlugin
+Componentized plug-in
